@@ -1,0 +1,4 @@
+# ignore git modules
+node_modules/
+# ignore MongoDB database
+data/
